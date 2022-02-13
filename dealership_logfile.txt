@@ -1,0 +1,8 @@
+01:58:58-Feb-13-2022,ETL process starts
+01:58:58-Feb-13-2022,Extract step starts
+01:58:58-Feb-13-2022,Extract step completed
+01:58:58-Feb-13-2022,Transform step started
+01:58:58-Feb-13-2022,Transform step completed
+01:58:58-Feb-13-2022,Load step started
+01:58:58-Feb-13-2022,Load step completed
+01:58:58-Feb-13-2022,ETL process completed
